@@ -18,9 +18,9 @@
 
 ## Usage
 
-Once the application is up and running
-Open your web browser and visit `http://localhost:3000` to access Search Engine
-Visit `http://localhost:3001/docs/` to access Swagger view API document
+- Once the application is up and running
+- Open your web browser and visit `http://localhost:3000` to access Search Engine
+- Visit `http://localhost:3001/docs/` to access Swagger view API document
 
 ### Features
 
